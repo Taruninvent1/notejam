@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'NotesJam'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_169407181a714f2b8deabf2943af12a4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cc2222359042428cae503656fce5b18e }}
         package: .
